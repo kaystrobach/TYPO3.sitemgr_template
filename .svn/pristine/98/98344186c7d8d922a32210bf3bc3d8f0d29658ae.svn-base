@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		
+		<description>Language labels for module "web_txkssitemgrM1" - header, description</description>
+	</meta>
+	
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="SitemgrTemplates_title">Template</label>
+			<label index="SitemgrTemplates_norecords">There no template records available, perhaps it take a short time to load them ... </label>
+			<label index="SitemgrTemplates_loading">Loading Template records - please wait ...</label>
+			<label index="SitemgrTemplates_loadingForm">loading form for</label>
+			<label index="SitemgrTemplates_settings">Settings</label>
+			<label index="SitemgrTemplates_templateProperties">Properties</label>
+			<label index="SitemgrTemplates_templatePreview">Preview</label>
+			<label index="SitemgrTemplates_templateCopyright">Copyright</label>
+			<label index="SitemgrTemplates_templateSpecialProperties">Options for</label>
+			<label index="SitemgrTemplates_rootpageTvStructure">page structure</label>
+			<label index="SitemgrTemplates_rootpageTvStructure_next">subpage data structure</label>
+			<label index="SitemgrTemplates_theme_apply">apply theme</label>
+			<label index="SitemgrTemplates_theme_cansel_apply">cancel</label>
+			<label index="SitemgrTemplates_applyTemplateHeader">Do you really want to apply this template?</label>
+			<label index="SitemgrTemplates_applyTemplateMessage">Applying this template, will immediately change the layout of your website. Based on the system settings, there may not be any way to revert your changes.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_header">Hints about changing the datastructure</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_text">If you get blank pages you may autoreference your page content with that button, please be patient, that currently not used content may be published, you may also reference you content manually via Web / Functions or WEB / Page.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_button">Rereferenz all content objects now.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_loadingText">Please be paitend, i do some remapping for you.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_header_status">rereferenzing all content objects - please be patiend</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_doneText">Remapping done, please check the consistency of your site.</label>
+
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="SitemgrTemplates_title">Gestaltung</label>
+			<label index="SitemgrTemplates_norecords">Keine Vorlagen verfügbar, vielleicht dauert es einen Moment länger sie zu laden ... </label>
+			<label index="SitemgrTemplates_loading">Lade Vorlagen - bitte Warten ...</label>
+			<label index="SitemgrTemplates_loadingForm">Lade Optionen für </label>
+			<label index="SitemgrTemplates_settings">Optionen für </label>
+			<label index="SitemgrTemplates_templateProperties">Eigenschaften / Vorschau</label>
+			<label index="SitemgrTemplates_templatePreview">Vorschau</label>
+			<label index="SitemgrTemplates_templateCopyright">Urheber</label>
+			<label index="SitemgrTemplates_templateSpecialProperties">Einstellungen</label>
+			<label index="SitemgrTemplates_rootpageTvStructure">Seitenstruktur</label>
+			<label index="SitemgrTemplates_rootpageTvStructure_next">Unterseitenstruktur</label>
+			<label index="SitemgrTemplates_theme_apply">Vorlage übernehmen</label>
+			<label index="SitemgrTemplates_theme_cansel_apply">Abbrechen</label>
+			<label index="SitemgrTemplates_applyTemplateHeader">Vorlage übernehmen?</label>
+			<label index="SitemgrTemplates_applyTemplateMessage">Die gewählte Vorlage wird sofort auf Ihre Seite angewendet. In den folgenden Schritten können Sie die Einstellungen für Ihre Seite anpassen.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_header">Hinweise zum Ändern der Seitenstrutur</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_text">Falls die Seiten keine Inhalte anzeigen, können Sie hier die Seiteninhalte automatisch neu referenzieren lassen. Beachten Sie bitte, dass auch derzeit nicht genutzte Inhaltselemente mit dieser Funktion in die Seiten eingefügt werden können. Unter Web / Funktion oder Web / Seite können Sie alternativ die Inhalte manuell referenzieren. Vor dem Nutzen dieses Buttons klicken Sie bitte auf speichern.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_button">Seiteninhalte jetzt neu referenzieren</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_header_status">referenziere Seiteninhalte - bitte haben Sie einen Moment Geduld.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_loadingText">Ein klein wenig Geduld Bitte, ich rereferenziere die Datensätze.</label>
+			<label index="sitemgr_SitemgrTemplavoilaRereferenceButton_doneText">Rereferenzieren der Datensätze erledigt, bitte überprüfen Sie ihre Internetseiten.</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		
+		<description>Language labels for module "web_txkssitemgrM1" - header, description</description>
+	</meta>
+	
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="cat_content">Content</label>
+			<label index="cat_advanced">Advanced</label>
+			<label index="cat_site constants">Site Constants</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="cat_content">Inhalt</label>
+			<label index="cat_advanced">Erweitert</label>
+			<label index="cat_site constants">Seite</label>
+
+		</languageKey>
+	</data>
+</T3locallang>
