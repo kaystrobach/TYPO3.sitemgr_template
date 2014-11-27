@@ -92,8 +92,8 @@ abstract class Tx_SitemgrTemplate_Domain_Model_TemplateAbstractModel {
 			$this->tsParser->tt_track = 0; // Do not log time-performance information
 			$this->tsParser->init();
 
-			$this->tsParser->ext_localGfxPrefix = t3lib_extMgm::extPath('tstemplate_ceditor');
-			$this->tsParser->ext_localWebGfxPrefix = $GLOBALS['BACK_PATH'].t3lib_extMgm::extRelPath('tstemplate_ceditor');
+			$this->tsParser->ext_localGfxPrefix = t3lib_extMgm::extPath('tstemplate');
+			$this->tsParser->ext_localWebGfxPrefix = $GLOBALS['BACK_PATH'].t3lib_extMgm::extRelPath('tstemplate');
 
 			$this->tsParserTplRow = $this->tsParser->ext_getFirstTemplate($pageId, $template_uid);
 
